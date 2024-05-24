@@ -43,7 +43,11 @@ The problem to be solved is to design an intuitive, user-friendly table booking 
 
 [Figma Link](https://www.figma.com/design/zv5OuOYzwphHQldBINbsKz/Little-Lemon-Website?node-id=8-126&t=ufZS1V8mAxhh3QaR-1)
 
+### Prototype
 
+![Little Lemon Website](https://github.com/akdpe/little-lemon-website/assets/123006573/81a4155b-bc8e-4388-a840-1c48852375ac)
+
+[Figma Link](https://www.figma.com/design/zv5OuOYzwphHQldBINbsKz/Little-Lemon-Website?node-id=13-834&t=ufZS1V8mAxhh3QaR-1)
 
 
 
