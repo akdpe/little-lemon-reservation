@@ -8,6 +8,10 @@ The problem to be solved is to design an intuitive, user-friendly table booking 
 
 ### Persona
 
+![A4 - 1](https://github.com/akdpe/little-lemon-website/assets/123006573/cf3d84d6-d757-4291-a447-33b389b75544)
+
+[Figma link](https://www.figma.com/design/zv5OuOYzwphHQldBINbsKz/Little-Lemon-Website?node-id=3-4&t=I4VNci6lFWsm24LK-1)
+
 ### Journey Map
 
 ### Opportunities for Improvement
