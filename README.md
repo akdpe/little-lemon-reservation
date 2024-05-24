@@ -7,8 +7,7 @@ Booking a table on the Little Lemon website
 The problem to be solved is to design an intuitive, user-friendly table booking system for the Little Lemon website. The current booking process is cumbersome, leading to user frustration, high drop-off rates, and loss of potential customers. The goal is to streamline the user experience, making it easy and enjoyable to book a table online.
 
 ### Persona
-
-![A4 - 1](https://github.com/akdpe/little-lemon-website/assets/123006573/cf3d84d6-d757-4291-a447-33b389b75544)
+![A4 - 1 (1)](https://github.com/akdpe/little-lemon-website/assets/123006573/69b19830-f3e4-4e8b-97d7-408f73704cc8)
 
 [Figma link](https://www.figma.com/design/zv5OuOYzwphHQldBINbsKz/Little-Lemon-Website?node-id=3-4&t=I4VNci6lFWsm24LK-1)
 
