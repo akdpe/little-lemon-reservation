@@ -34,6 +34,15 @@ The problem to be solved is to design an intuitive, user-friendly table booking 
 - Monitor booking data to identify and address any ongoing issues.
 
 
+## Design & Prototype
+
+### Wireframe
+
+![Little Lemon Website](https://github.com/akdpe/little-lemon-website/assets/123006573/4d5a8b4f-5150-4f01-927c-dfbc1455ed3b)
+
+
+[Figma Link](https://www.figma.com/design/zv5OuOYzwphHQldBINbsKz/Little-Lemon-Website?node-id=8-126&t=ufZS1V8mAxhh3QaR-1)
+
 
 
 
