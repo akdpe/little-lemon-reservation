@@ -13,6 +13,10 @@ The problem to be solved is to design an intuitive, user-friendly table booking 
 
 ### Journey Map
 
+![Journey Map](https://github.com/akdpe/little-lemon-website/assets/123006573/0fd4a5dd-3177-44ad-ab3c-56adc3baacde)
+
+[Figma link](https://www.figma.com/design/zv5OuOYzwphHQldBINbsKz/Little-Lemon-Website?node-id=6-48&t=XV7EqANUMV3VuctW-1)
+
 ### Opportunities for Improvement
 - Simplify the personal details form to reduce user friction.
 - Provide real-time availability updates.
